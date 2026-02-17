@@ -105,11 +105,13 @@ Then open:
 -pythonscript.ipynb 
 Run the cells sequentially.
 
-##📈 Results
+---
+
+## 📈 Results
 
 The trained model provides predictions on whether a person has heart disease based on input medical parameters. Model performance is evaluated using accuracy metrics.
 
-##🌱 Future Improvements
+## 🌱 Future Improvements
 
 -Add feature scaling and hyperparameter tuning
 -Compare multiple ML algorithms
@@ -117,7 +119,9 @@ The trained model provides predictions on whether a person has heart disease bas
 -Deploy model online
 -Add confusion matrix and ROC curves
 
-##🤝 Contributing
+---
+
+## 🤝 Contributing
 Contributions are welcome!
 -Fork the repository
 -Create your branch
@@ -125,11 +129,17 @@ Contributions are welcome!
 -Push to your fork
 -Submit a pull request
 
-##📜 License
+---
+
+## 📜 License
 This project is open-source and available for educational purposes.
 
-##🙌 Author
+---
+
+## 🙌 Author
 Pranav Singh Rawat
 Feel free to connect or contribute!
 
-##⭐ If you found this project helpful, consider starring the repository!
+---
+
+## ⭐ If you found this project helpful, consider starring the repository!
